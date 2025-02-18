@@ -1,77 +1,41 @@
 # 🛍️ Employee Management
-> A Spring Boot CRUD application for managing employees
-![Project Status](https://img.shields.io/badge/status-active-success.svg)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.0-brightgreen.svg)
-![Java](https://img.shields.io/badge/Java-17-orange.svg)
+> A Full-Stack Employee Management System using Spring Boot & React  
+![Project Status](https://img.shields.io/badge/status-active-success.svg)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.0-brightgreen.svg)  
+![Java](https://img.shields.io/badge/Java-17-orange.svg)  
+![React](https://img.shields.io/badge/React-19-blue.svg)  
 
-## 📖 About Project
-This project is a simple employee management system built with Spring Boot. It provides a RESTful API for managing employees, allowing users to perform CRUD operations with a MySQL database.
+## 📖 About Project  
+This project is a **full-stack** employee management system that allows users to perform CRUD operations on employees.  
+The backend is powered by **Spring Boot**, while the frontend is built using **ReactJS** with Bootstrap for styling.  
 
-## ⭐ Main Features
-- 📝 Full CRUD functionality for employee management
-- 🖥️ REST API for seamless integration
-- 🔄 Database management with JPA and Hibernate
-- 📊 Logging and debugging with SLF4J and Logback
-- 🔍 Unit testing with JUnit and Mockito
+## ⭐ Main Features  
+- 📝 Full CRUD functionality for employee management  
+- 🎨 Clean and intuitive user interface with ReactJS  
+- 🔒 Secure data handling with MySQL  
 
-## 🛠️ Tech Stack
-- [Spring Boot](https://spring.io/projects/spring-boot) - Backend Framework
-- [Spring Data JPA](https://spring.io/projects/spring-data-jpa) - Data Persistence
-- [Spring Boot Starter Web](https://spring.io/projects/spring-boot) - REST API Development
-- [Spring Boot Starter JDBC](https://spring.io/projects/spring-data-jdbc) - Database Connectivity
-- [MySQL](https://www.mysql.com/) - Relational Database Management System
-- [Hibernate](https://hibernate.org/) - ORM Framework
-- [Maven](https://maven.apache.org/) - Dependency Management
-- [JUnit 5](https://junit.org/junit5/) - Unit Testing Framework
-- [Mockito](https://site.mockito.org/) - Mocking Framework
-- [Logback](https://logback.qos.ch/) - Logging Framework
+## 🛠️ Tech Stack  
+### Backend:
+- [Spring Boot](https://spring.io/projects/spring-boot) - Backend Framework  
+- [Spring Data JPA](https://spring.io/projects/spring-data-jpa) - Data Persistence  
+- [MySQL](https://www.mysql.com/) - Database  
+- [Maven](https://maven.apache.org/) - Dependency Management  
 
-## 🏁 Getting Started
+### Frontend:
+- [React 19](https://react.dev/) - Frontend Library  
+- [React Router DOM](https://reactrouter.com/) - Client-side Routing  
+- [Bootstrap 5](https://getbootstrap.com/) - UI Framework  
+- [Axios](https://axios-http.com/) - API Calls  
 
-### Prerequisites
-- JDK 17 or later
-- Maven 3.6 or later
-- MySQL 8.0 or later
+## 🏁 Getting Started  
 
-### Installation
+### 🔧 Prerequisites  
+- **Backend:** JDK 17+, Maven 3.6+, MySQL 8+  
+- **Frontend:** Node.js 18+, npm 9+  
+
+### 🚀 Installation  
+
+#### 1️⃣ Clone this repository  
 ```bash
-# Clone this repository
-git clone https://github.com/[username]/employee-management
-
-# Navigate to project directory
+git clone https://github.com/yand06/employee-management
 cd employee-management
-
-# Configure database
-# Update application.properties with your MySQL credentials
-
-# Build the project
-mvn clean install
-
-# Run the application
-mvn spring-boot:run
-```
-
-## 🌐 API Endpoints
-- `GET /employees` - List all employees
-- `POST /employees` - Add a new employee
-- `PUT /employees/{id}` - Update an employee
-- `DELETE /employees/{id}` - Delete an employee
-
-## 📷 Screenshots
-
-
-## 🔧 Development
-```bash
-# Run tests
-mvn test
-
-# Package the application
-mvn package
-```
-
-## 🤝 Contributing
-Contributions are welcome! Feel free to submit a pull request or open an issue.
-
-## 📜 License
-This project is licensed under the MIT License.
-
