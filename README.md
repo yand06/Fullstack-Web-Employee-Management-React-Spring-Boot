@@ -71,3 +71,16 @@ npm test
 # Build the React app
 npm run build
 ```
+## 🖼️ Screenshots
+
+### List Employee
+![List Employee](https://github.com/user-attachments/assets/f2e5029f-34f1-4f6b-916c-c582bd01fb02)
+
+### Add Employee
+![Add employee](https://github.com/user-attachments/assets/95fa7482-7e57-4386-b4bc-57b79d9397ba)
+
+### Update Employee
+![Update employee](https://github.com/user-attachments/assets/b24a1f94-eda4-4a82-a7ab-52886386c83b)
+
+### View Employee
+![View Employee](https://github.com/user-attachments/assets/33ceb461-7294-497f-b238-d2c28eaee1fe)
