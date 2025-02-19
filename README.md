@@ -43,7 +43,7 @@ cd employee-management
 
 #### 2️⃣ Backend Setup  
 ```bash
-cd spring-boot-backend
+cd springboot-backend
 mvn clean install
 mvn spring-boot:run
 ```
