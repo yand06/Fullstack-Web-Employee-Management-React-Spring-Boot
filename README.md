@@ -2,8 +2,7 @@
 > A Full-Stack Employee Management System using Spring Boot & React  
 ![Project Status](https://img.shields.io/badge/status-active-success.svg)
 > ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.0--SNAPSHOT-brightgreen.svg)
-![Java](https://img.shields.io/badge/Java-17-orange.svg)  
-![React](https://img.shields.io/badge/React-19-blue.svg)  
+![Java](https://img.shields.io/badge/Java-17-orange.svg) ![React](https://img.shields.io/badge/React-19-blue.svg)  
 
 ## 📖 About Project  
 This project is a **full-stack** employee management system that allows users to perform CRUD operations on employees.  
