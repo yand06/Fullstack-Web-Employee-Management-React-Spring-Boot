@@ -1,4 +1,4 @@
-# 🛍️ Employee Management
+# 🛍👥 Employee Management
 > A Full-Stack Employee Management System using Spring Boot & React  
 ![Project Status](https://img.shields.io/badge/status-active-success.svg)
 > ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.0--SNAPSHOT-brightgreen.svg)
