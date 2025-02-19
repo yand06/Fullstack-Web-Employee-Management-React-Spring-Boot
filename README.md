@@ -61,8 +61,6 @@ npm start
 - `PUT /employees/{id}` - Update an employee  
 - `DELETE /employees/{id}` - Delete an employee  
 
-## 📷 Screenshots  
-
 ## 🔧 Development  
 ```bash
 # Run backend tests
