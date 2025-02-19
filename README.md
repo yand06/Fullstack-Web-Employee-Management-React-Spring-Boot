@@ -37,5 +37,40 @@ The backend is powered by **Spring Boot**, while the frontend is built using **R
 
 #### 1️⃣ Clone this repository  
 ```bash
-git clone https://github.com/yand06/employee-management
+git clone https://github.com/[username]/employee-management
 cd employee-management
+```
+
+#### 2️⃣ Backend Setup  
+```bash
+cd spring-boot-backend
+mvn clean install
+mvn spring-boot:run
+```
+
+#### 3️⃣ Frontend Setup  
+```bash
+cd react-frontend
+npm install
+npm start
+```
+
+## 🌐 API Endpoints  
+- `GET /employees` - List all employees  
+- `POST /employees` - Add a new employee  
+- `PUT /employees/{id}` - Update an employee  
+- `DELETE /employees/{id}` - Delete an employee  
+
+## 📷 Screenshots  
+
+## 🔧 Development  
+```bash
+# Run backend tests
+mvn test
+
+# Run frontend tests
+npm test
+
+# Build the React app
+npm run build
+```
